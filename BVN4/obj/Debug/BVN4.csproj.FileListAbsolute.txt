@@ -1,0 +1,11 @@
+C:\Users\admin\OneDrive\Máy tính\Projects\BVN4\BVN4\bin\Debug\BVN4.exe.config
+C:\Users\admin\OneDrive\Máy tính\Projects\BVN4\BVN4\bin\Debug\BVN4.exe
+C:\Users\admin\OneDrive\Máy tính\Projects\BVN4\BVN4\bin\Debug\BVN4.pdb
+C:\Users\admin\OneDrive\Máy tính\Projects\BVN4\BVN4\obj\Debug\BVN4.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\Projects\BVN4\BVN4\obj\Debug\BVN4.Form1.resources
+C:\Users\admin\OneDrive\Máy tính\Projects\BVN4\BVN4\obj\Debug\BVN4.Form2.resources
+C:\Users\admin\OneDrive\Máy tính\Projects\BVN4\BVN4\obj\Debug\BVN4.Properties.Resources.resources
+C:\Users\admin\OneDrive\Máy tính\Projects\BVN4\BVN4\obj\Debug\BVN4.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Máy tính\Projects\BVN4\BVN4\obj\Debug\BVN4.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\Projects\BVN4\BVN4\obj\Debug\BVN4.exe
+C:\Users\admin\OneDrive\Máy tính\Projects\BVN4\BVN4\obj\Debug\BVN4.pdb
